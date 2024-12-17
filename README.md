@@ -19,5 +19,5 @@
   - [Delphinus](https://github.com/DelphinusLab/zkWasm)
   - [Nexus](https://github.com/nexus-xyz/nexus-zkvm)
   - [Miden](https://github.com/0xPolygonMiden/miden-vm)
-  - OpenVM
+  - [OpenVM](https://github.com/openvm-org/openvm)
  
