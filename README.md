@@ -6,7 +6,6 @@
 - CairoVM(StarkWare)
 - Arbitrum Stylus(Arbitrum)
 - TonVM(Ton Blockchain)
-- BitVM
 - zkSync VM
 - FuelVM
 - LinuxVM
