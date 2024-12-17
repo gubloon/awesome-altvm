@@ -2,7 +2,7 @@
 <br> OP: https://x.com/paultimofeev_/status/1868751798153966004
 > a list of altVMs, for those who might've lost track:
 
-- SVM
+- SVM ([Eclipse](https://www.eclipse.xyz/))
 - CosmWasm/WasmVM(cosmos)
 - MoveVM
 - CairoVM(StarkWare)
