@@ -9,9 +9,9 @@
 - Arbitrum Stylus(Arbitrum)
 - TonVM(Ton Blockchain)
 - zkSync VM
-- FuelVM
-- LinuxVM
-- blended VM
+- [FuelVM](https://github.com/FuelLabs/fuel-vm)
+- [LinuxVM(Cartesi)](https://cartesi.io/)
+- [blended VM(fluent)](https://github.com/fluentlabs-xyz)
 - zkVMs
   - SP1
   - Risc Zero
