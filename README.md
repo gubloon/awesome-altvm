@@ -1,6 +1,6 @@
 # awesome-altvm
 > a list of altVMs, for those who might've lost track:
-OP: https://x.com/paultimofeev_/status/1868751798153966004
+<br> OP: https://x.com/paultimofeev_/status/1868751798153966004
 
 - SVM
 - CosmWasm/WasmVM(cosmos)
